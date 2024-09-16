@@ -1,5 +1,5 @@
 ﻿WpfApp2
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Entwicklung\Workspaces\schule\test\schulprojekt\WpfApp2\App.xaml
 11407045341
 
-61991024634
+4-2022352810
 198-635017904
 MainWindow.xaml;
 
-True
+False
 

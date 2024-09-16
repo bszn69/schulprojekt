@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Entwicklung\\Workspaces\\schule\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+      "projectUniqueName": "C:\\Entwicklung\\Workspaces\\schule\\test\\schulprojekt\\WpfApp2\\WpfApp2.csproj",
       "projectName": "WpfApp2",
-      "projectPath": "C:\\Entwicklung\\Workspaces\\schule\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+      "projectPath": "C:\\Entwicklung\\Workspaces\\schule\\test\\schulprojekt\\WpfApp2\\WpfApp2.csproj",
       "packagesPath": "C:\\Users\\tgra\\.nuget\\packages\\",
-      "outputPath": "C:\\Entwicklung\\Workspaces\\schule\\WpfApp2\\WpfApp2\\obj\\",
+      "outputPath": "C:\\Entwicklung\\Workspaces\\schule\\test\\schulprojekt\\WpfApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
